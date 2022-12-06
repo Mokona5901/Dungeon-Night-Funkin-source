@@ -1,7 +1,11 @@
 # Dungeon Night Funkin'
 Source code of the FNF mod : Dungeon Night Funkin' (based on Psych Engine 0.6.3) 
 
-## Credits:
+### Mod Credits :
+* Mokona59 (Myself) - Programmer
+____
+
+### Psych Engine Credits :
 * Shadow Mario - Programmer
 * RiverOaken - Artist
 * Yoshubs - Assistant Programmer
