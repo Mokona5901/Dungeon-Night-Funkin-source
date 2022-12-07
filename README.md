@@ -2,15 +2,15 @@
 Source code of the FNF mod : Dungeon Night Funkin' (based on Psych Engine 0.6.3) 
 
 ### Mod Credits :
-* Mokona59 (Myself) - Programmer
-____
+* Mokona59 (Myself) - 
+________________________________
 
 ### Psych Engine Credits :
 * Shadow Mario - Programmer
 * RiverOaken - Artist
 * Yoshubs - Assistant Programmer
 
-### Special Thanks
+### Psych Engine Special Thanks :
 * bbpanzu - Ex-Programmer
 * shubs - New Input System
 * SqirraRNG - Crash Handler and Base code for Chart Editor's Waveform
